@@ -1,5 +1,7 @@
 Materials associated with the paper "Palaeolatitudinal distribution of lithologic indicators of climate in a palaeogeographic framework"
 
+blah
+
 This repository documents the data and the data analysis and figure generation codes used for the paper:
 
 Cao, W., Williams, S., Flament, N., Zahirovic, S., Scotese, C., and Müller, R. D., 2018. Paleolatitudinal distribution of lithologic indicators of climate in a paleogeographic framework. Geological Magazine, 1-24.
