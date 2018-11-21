@@ -13,6 +13,5 @@ The code folder contains several Jupyter notebook with code written in Python 2.
 The Jupyter notebook can be viewed as static html here: https://nbviewer.jupyter.org/github/Swanson-Hysell/2017_Taconic/blob/master/Code/Taconic_Arc_Paleogeography.html
 Data folder
 
-The data folder contains subfolders related to geological data (Geology), GPlates reconstruction files (GPlates), the paleomagnetic data (Pmag), and the strontium isotope compilation (Sr).
+The data folder contains subfolders related to geological data (Geology).
 
-asdhf asd
